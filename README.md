@@ -1,6 +1,4 @@
-# New Project
-
-> Plates Co
+# Plates Co Case Study
 
 ## Available Scripts
 
