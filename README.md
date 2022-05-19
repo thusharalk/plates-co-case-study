@@ -2,6 +2,9 @@
 
 ## Available Scripts
 
+### npm install
+Install all dependency packages.
+
 ### npm start
 
 Runs the app in the development mode.
