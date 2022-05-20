@@ -1,8 +1,9 @@
-# New Project
-
-> Plates Co
+# Plates Co Case Study
 
 ## Available Scripts
+
+### npm install
+Install all dependency packages.
 
 ### npm start
 
